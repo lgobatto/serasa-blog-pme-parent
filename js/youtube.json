@@ -1,0 +1,257 @@
+
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/8TQgPPo1z-vz2bDfsl3Ir84T7xQ\"",
+ "nextPageToken": "CAUQAA",
+ "pageInfo": {
+  "totalResults": 22,
+  "resultsPerPage": 5
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/QmyIEX1b74CbQnC2IIDwK6wKsdQ\"",
+   "id": "UEwwQmRYTnEybFd2SG9HQ040TkRCbUxQLVhBbDNrbHJ0SC41QUZGQTY5OTE4QTREQUU4",
+   "snippet": {
+    "publishedAt": "2019-11-01T20:46:33.000Z",
+    "channelId": "UCdq9Jizyr9reGdpykvVioYA",
+    "title": "Serasa Experian | Dicas para Gestão de Empresas",
+    "description": "É conteúdo sobre gestão de empresas que você quer? \nA Serasa Experian tem muitos e eles são gratuitos. \nAcesse nosso blog e saiba como fazer a sua empresa prosperar: https://bit.ly/2NxV5VN",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hFGbUpkf8fk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hFGbUpkf8fk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hFGbUpkf8fk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/hFGbUpkf8fk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/hFGbUpkf8fk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Serasa Experian",
+    "playlistId": "PL0BdXNq2lWvHoGCN4NDBmLP-XAl3klrtH",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "hFGbUpkf8fk"
+    }
+   },
+   "contentDetails": {
+    "videoId": "hFGbUpkf8fk",
+    "videoPublishedAt": "2019-11-01T20:46:32.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/jxNVmqa3IEZ37yYGFZVYn50-FIo\"",
+   "id": "UEwwQmRYTnEybFd2SG9HQ040TkRCbUxQLVhBbDNrbHJ0SC5GM0Q3M0MzMzY5NTJFNTdE",
+   "snippet": {
+    "publishedAt": "2019-08-14T14:36:08.000Z",
+    "channelId": "UCdq9Jizyr9reGdpykvVioYA",
+    "title": "Soluções de Cobrança Serasa Experian: PEFIN",
+    "description": "Já imaginou não ter mais dor de cabeça para recuperar as dívidas de seus clientes? Nós podemos te ajudar! \nPara saber mais sobre o PEFIN, ligue para 3003-2599",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VAQyTR6RCjo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VAQyTR6RCjo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VAQyTR6RCjo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/VAQyTR6RCjo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/VAQyTR6RCjo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Serasa Experian",
+    "playlistId": "PL0BdXNq2lWvHoGCN4NDBmLP-XAl3klrtH",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "VAQyTR6RCjo"
+    }
+   },
+   "contentDetails": {
+    "videoId": "VAQyTR6RCjo",
+    "videoPublishedAt": "2019-08-14T14:36:05.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/9ppvD6jhGpIUO5-bLmb-gD2u-f0\"",
+   "id": "UEwwQmRYTnEybFd2SG9HQ040TkRCbUxQLVhBbDNrbHJ0SC41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2019-06-19T20:14:19.000Z",
+    "channelId": "UCdq9Jizyr9reGdpykvVioYA",
+    "title": "Faça sua consulta de CNPJ e CPF na Serasa Experian e evite calotes!",
+    "description": "Acesse: http://bit.ly/2MmVVHv\n\nQuer saber por que é importante consultar seus clientes e fornecedores na Serasa Experian? Negocie com mais segurança, evite calotes, conheça seus parceiros e venda mais!\n\n#ConsultaCNPJ #ConsultaCPF #XôCalote #Indaimplencia #SegurançaParaVender",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zBKswSP-irs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zBKswSP-irs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zBKswSP-irs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/zBKswSP-irs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/zBKswSP-irs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Serasa Experian",
+    "playlistId": "PL0BdXNq2lWvHoGCN4NDBmLP-XAl3klrtH",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "zBKswSP-irs"
+    }
+   },
+   "contentDetails": {
+    "videoId": "zBKswSP-irs",
+    "videoPublishedAt": "2019-06-19T20:14:17.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/ffmQgGJy-SCedoB4CCWW7KmFCeY\"",
+   "id": "UEwwQmRYTnEybFd2SG9HQ040TkRCbUxQLVhBbDNrbHJ0SC4yMDhBMkNBNjRDMjQxQTg1",
+   "snippet": {
+    "publishedAt": "2019-08-14T14:14:30.000Z",
+    "channelId": "UCdq9Jizyr9reGdpykvVioYA",
+    "title": "Cuidar da Saúde do Seu Negócio ficou mais fácil ainda!",
+    "description": "Já pensou que podem estar consultando o seu CNPJ ou CPF sem você saber? Quer evitar fraudes e ter mais segurança? Com o Saúde do Seu Negócio você pode monitorar seu CNPJ e CPF 24h por dia! Saiba mais em: https://bit.ly/33yZ5g8",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ACrIE2Esiqs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ACrIE2Esiqs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ACrIE2Esiqs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ACrIE2Esiqs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ACrIE2Esiqs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Serasa Experian",
+    "playlistId": "PL0BdXNq2lWvHoGCN4NDBmLP-XAl3klrtH",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ACrIE2Esiqs"
+    }
+   },
+   "contentDetails": {
+    "videoId": "ACrIE2Esiqs",
+    "videoPublishedAt": "2019-08-14T14:14:27.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/v7LG9OfsM5LB-cwMyORGvtCez9Y\"",
+   "id": "UEwwQmRYTnEybFd2SG9HQ040TkRCbUxQLVhBbDNrbHJ0SC45RTgxNDRBMzUwRjQ0MDhC",
+   "snippet": {
+    "publishedAt": "2019-07-16T19:42:39.000Z",
+    "channelId": "UCdq9Jizyr9reGdpykvVioYA",
+    "title": "Descubra se consultaram seu CNPJ e CPF.",
+    "description": "Quer saber como o mercado enxerga a sua empresa? Saber como agir para poder aumentar suas chances de obter crédito para investir? Conheça a solução da Serasa Experian para ajudar a garantir a Saúde do seu Negócio. Saiba mais: https://bit.ly/2Z3Qorz",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wyAnuK1a250/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wyAnuK1a250/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wyAnuK1a250/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/wyAnuK1a250/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/wyAnuK1a250/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Serasa Experian",
+    "playlistId": "PL0BdXNq2lWvHoGCN4NDBmLP-XAl3klrtH",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "wyAnuK1a250"
+    }
+   },
+   "contentDetails": {
+    "videoId": "wyAnuK1a250",
+    "videoPublishedAt": "2019-07-16T19:42:37.000Z"
+   }
+  }
+ ]
+}
